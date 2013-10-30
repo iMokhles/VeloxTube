@@ -1,0 +1,9 @@
+Package: com.iHPhone.veloxtube
+Name: VeloxTube
+Depends: firmware (>= 6.0), com.apextweaks.velox
+Version: 1.1b-2
+Architecture: iphoneos-arm
+Description: An awesome YouTube folder for Velox that let you search YouTube directly without opening the app
+Maintainer: iHeroPhone
+Author: iHeroPhone
+Section: Addons (Velox)Installed-Size: 24
